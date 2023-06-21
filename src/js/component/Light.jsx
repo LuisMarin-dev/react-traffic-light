@@ -44,14 +44,4 @@ const Light = () => {
     )
 }
 
-
-const colors = {
-    light: "red",
-    light: "yellow",
-    light: "green",
-}
-
-
-
-
 export default Light;
